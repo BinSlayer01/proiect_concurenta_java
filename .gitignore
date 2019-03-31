@@ -1,0 +1,15 @@
+.mvn/**
+mvnw**
+.idea/**
+*.iml
+**/target/**
+**/.settings/**
+**/.project/**
+**/.project
+**/.classpath
+**/.factorypath
+logs
+log.txt
+**/LOG_FILE_IS_UNDEFINED*
+**NO_AUTOMATIC_EXECUTION
+todos.txt 
